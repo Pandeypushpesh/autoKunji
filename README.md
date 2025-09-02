@@ -1,3 +1,4 @@
+https://autokunji.netlify.app/
 # autoKunji 🔐  
 A lightweight, fast, and secure password generator for everyday use.  
 
